@@ -1,0 +1,11 @@
+# Window dimensions
+WINDOW_WIDTH = 1200
+WINDOW_HEIGHT = 800
+FPS = 60
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+ORANGE = (255, 165, 0)
+RED = (255, 0, 0)
+COURT_COLOR = (50, 50, 50) 
